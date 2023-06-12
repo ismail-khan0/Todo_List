@@ -1,0 +1,59 @@
+.todo
+{
+    width: 600px;
+   
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
+.heading
+{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+}
+.txt{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 25px;
+}
+.box
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* add task */
+
+.add-task
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.a-task{
+    display: flex;
+    
+}
+.a-type{
+    margin-right: 20px;
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+.select{
+    width: 100px;
+    height: 30px;
+}
+.add{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+}

@@ -1,0 +1,19 @@
+.showResult
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.result{
+
+    width: 400px;
+    height: 50px;
+    padding: 20px;
+    margin: 20px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:10px;
+    background-color: blue;
+}
